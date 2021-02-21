@@ -17,8 +17,8 @@ This goal is important goal because it will allow students to get experience pro
 create version control, and deal with issue tracking in a practical application. 
 
 ## Conceptual Design
-I have several proposed contributions that could benefit to the propsed open source project. An existing issue that is a front end bug currently where log in is not responsive across platforms formats like the ipad. Another proposed issue is for user valiadation when the user clicks on the 'log in' or 'create account' buttons, error messages should appear for password and confirm passwords fields if they were left blank or if the passwords do not match. A refactoring and debugging issue is also aparent for RatingStatisticTest where books with the same titles should pass an assert equal test even though they have different IDs.
-A new possibility not proposed in the existing open source project is adding a feature where you can have links to free audio books available on youtube. 
+I have several proposed contributions that could benefit to the proposed open source project. A front end styling feature currently is an issue because the books page  is not responsive across platforms formats like the iPhoneX. Another proposed issue is for user valiadation when the user clicks on the 'log in' or 'create account' buttons, error messages should appear for password and confirm passwords fields if they were left blank or if the passwords do not match. 
+A new possibility in the existing open source project is adding a feature where you can share the books to a friend. 
 
 **Login Page UML:**
 <a href="https://ibb.co/kqFQ5Bg"><img src="https://i.ibb.co/MPLMZSD/Screen-Shot-2021-02-21-at-3-39-04-PM.png" alt="Screen-Shot-2021-02-21-at-3-39-04-PM" border="0"></a>
@@ -40,7 +40,7 @@ Git Repo:
 2. Import the project as a maven project into your favourite IDE (or run maven on the terminal)
 3. Start Docker engine (Linux) or Docker desktop (Windows or macOS)
   
-Then, if you want to use Docker, follow one of the approaches below:
+Then, if you want to use Docker, follow one of the 3 approaches below: ( I personally used the third. ) 
 
 #### 1. Start locally with only MySQL running in docker
 
