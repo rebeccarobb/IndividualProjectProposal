@@ -17,8 +17,7 @@ This goal is important goal because it will allow students to get experience pro
 create version control, and deal with issue tracking in a practical application. 
 
 ## Conceptual Design
-I have several proposed contributions that could benefit to the proposed open source project. A front end styling feature currently is an issue because the books page  is not responsive across platforms formats like the iPhoneX. Another proposed issue is for user valiadation when the user clicks on the 'log in' or 'create account' buttons, error messages should appear for password and confirm passwords fields if they were left blank or if the passwords do not match. 
-A new possibility in the existing open source project is adding a feature where you can share the books to a friend. 
+I have several proposed contributions that could benefit to the proposed open source project. An existing proposed issue is for user valiadation when the user clicks on the 'log in' or 'create account' buttons, error messages should appear for password and confirm passwords fields if they were left blank or if the passwords do not match.  Another issue open is allowing books to span multiple genres, perhaps with a genre array. For this open source project you must be assigned an issue so if these are taken there are other open issues. To avoid this completely we could add features. A possibility in the existing open source project is adding a feature where you can share the books to a friend. I also found a front end styling feature currently is an issue because the books page is not responsive across platforms formats like the iPhoneX. We could also try to add images to books and inculde a search by genre feature. 
 
 **Login Page UML:**
 <a href="https://ibb.co/kqFQ5Bg"><img src="https://i.ibb.co/MPLMZSD/Screen-Shot-2021-02-21-at-3-39-04-PM.png" alt="Screen-Shot-2021-02-21-at-3-39-04-PM" border="0"></a>
@@ -29,8 +28,7 @@ Git Repo:
 <https://github.com/Project-Books/book-project>
 
 ***Building***
-- Uses resuable free components : Spring Boot and Vaadin 14.
-- JDK 11 (no later versions) usable on IntelliJ.
+- JDK 11 (no later versions) usable on IntelliJ. (Uses resuable free components for java web apps: Spring Boot and Vaadin 14)
 - If you have Node.js installed it must be atleast 10.0 or Vaadin will automatically install it
 - MySQL8.0 OR Docker engine for linux or Docker desktop for Windows or MacOS.
 
